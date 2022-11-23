@@ -1,4 +1,3 @@
-
 ### If you enjoy my themes and extensions and want to support me you can at: https://www.paypal.me/davidkgriggs
 
 # PS5ishSlim
