@@ -13,10 +13,10 @@ PS5ish Slim is a Theme for Playnite that emulates the PS5 UI but toned down to b
 ![](https://raw.githubusercontent.com/davidkgriggs/PS5ishSlim/main/Media/screenshot_04.jpg)
 
 ### Plugins Supported:
-DKG Theme Modifier
-Extra Metadata Loader
-Extra Metadata Fullscreen Mode Helper
-SuccessStory
+* DKG Theme Modifier
+* Extra Metadata Loader
+* Extra Metadata Fullscreen Mode Helper
+* SuccessStory
 
 Please support the Main Playnite Project: https://www.patreon.com/playnite
 
